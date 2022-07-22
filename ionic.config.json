@@ -1,0 +1,8 @@
+{
+  "name": "IonicAngular-Tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "0b623a65"
+}
